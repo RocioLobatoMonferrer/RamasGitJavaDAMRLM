@@ -22,5 +22,7 @@ public class Main {
 		// Número complementario
 		System.out.println("Número Complementario:");
 		System.out.println(numExtra);
+
+		System.out.println("¡Buena suerte en el sorteo!");
 	}
 }
